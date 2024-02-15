@@ -1,0 +1,17 @@
+{
+  "name": "boti-mage",
+  "version": "1.0.0",
+  "description": "Discord Bot which response is a image every time is called.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alonss0",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}
